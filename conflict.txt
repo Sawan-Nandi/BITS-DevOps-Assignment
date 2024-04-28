@@ -1,2 +1,5 @@
-123456789
-This file is created from master branch
+<<<<<<< HEAD
+12345678
+=======
+12345678
+>>>>>>> conflict-test
