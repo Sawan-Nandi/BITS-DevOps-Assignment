@@ -1,2 +1,0 @@
-123456789
-This file is created to test conflict resolution
